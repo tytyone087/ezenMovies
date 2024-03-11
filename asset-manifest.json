@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ezenMovies/static/css/main.4e67e584.css",
+    "main.js": "/ezenMovies/static/js/main.948ba501.js",
+    "index.html": "/ezenMovies/index.html",
+    "main.4e67e584.css.map": "/ezenMovies/static/css/main.4e67e584.css.map",
+    "main.948ba501.js.map": "/ezenMovies/static/js/main.948ba501.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e67e584.css",
+    "static/js/main.948ba501.js"
+  ]
+}
